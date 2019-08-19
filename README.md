@@ -1,4 +1,4 @@
-Multi module approach for test case automation
+UI test case automation
 ==============================================
 - This framework allows you to automate UI cases
 
