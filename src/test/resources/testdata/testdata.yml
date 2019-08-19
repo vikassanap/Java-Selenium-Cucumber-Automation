@@ -1,0 +1,7 @@
+application_url: http://www.inside.co.in
+valid_user:
+  - username: test
+  - password: password
+invalid_user:
+  - username: test_invalid
+  - password: password_invalid
